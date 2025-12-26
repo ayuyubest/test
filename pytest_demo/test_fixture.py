@@ -55,10 +55,29 @@ import pytest
 # ====================
 # fixture 嵌套使用
 order = []
-@pytest.fixture()
-def f1(f3):
-    order.append("fi")   #这里f3 传到f1 中
-@pytest.fixture()
-def f1(f3):
-    order.append("fi")
-
+# @pytest.fixture()
+# def f1(f3):
+#     order.append("f1")   #这里f3 传到f1 中
+# @pytest.fixture()
+# def f3():
+#     order.append("f3")
+# def test_1(f1): #参数为f1 调用f1 时候会先执行f1的参数f3
+#     print(order)
+#     assert order == ["f3","f1"]
+# =======================
+# fixture 参数化
+# @pytest.fixture(params=['男','女'])  #将一个list 给params参数
+# def fix(request):
+#     return request.param #request.param 会依次将params里面的值返回去
+# def test_9(fix):
+#     print(fix)
+# 如果有多个参数
+li = [{'name':'ayuyu','age':'18'},{'name':'qwe','age':'23'}]
+@pytest.fixture(params=li)
+def fix(request):
+    return request.param
+def test_9(fix):
+    print(fix['name'])
+    print(fix['age'])
+# =============
+# fixture 做后置处理 通过yield关键字来实现
