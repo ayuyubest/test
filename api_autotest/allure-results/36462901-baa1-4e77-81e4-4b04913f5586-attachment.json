@@ -1,0 +1,8 @@
+{
+  "message": "消息不可读错误",
+  "code": "common.e1008",
+  "traceId": "66493a6257204f04a1cfbfb28d00d6b1.63.17670872202395963",
+  "errorCode": "common.e1008",
+  "errorMsg": "消息不可读错误",
+  "success": false
+}

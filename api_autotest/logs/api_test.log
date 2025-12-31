@@ -1,0 +1,298 @@
+2025-12-29 16:51:00,716 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 16:51:03,482 - core.logger - INFO - Response status: 401
+2025-12-29 16:51:04,942 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 16:51:05,275 - core.logger - INFO - Response status: 401
+2025-12-29 16:51:05,309 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-29 16:51:05,649 - core.logger - INFO - Response status: 401
+2025-12-29 17:16:18,185 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/login
+2025-12-29 17:16:19,947 - core.logger - INFO - Response status: 401
+2025-12-29 17:16:20,718 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/login
+2025-12-29 17:16:21,094 - core.logger - INFO - Response status: 401
+2025-12-29 17:16:21,145 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/login
+2025-12-29 17:16:21,531 - core.logger - INFO - Response status: 401
+2025-12-29 17:16:21,626 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/login
+2025-12-29 17:16:22,002 - core.logger - INFO - Response status: 401
+2025-12-29 17:17:45,085 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/login
+2025-12-29 17:17:46,721 - core.logger - INFO - Response status: 401
+2025-12-29 17:18:19,739 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/login
+2025-12-29 17:18:21,166 - core.logger - INFO - Response status: 401
+2025-12-29 17:28:03,914 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 17:28:06,849 - core.logger - INFO - Response status: 200
+2025-12-29 17:28:06,850 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initExpensePage
+2025-12-29 17:28:07,482 - core.logger - INFO - Response status: 200
+2025-12-29 17:28:07,485 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initPredictPage
+2025-12-29 17:28:08,107 - core.logger - INFO - Response status: 200
+2025-12-29 17:28:18,503 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 17:28:20,165 - core.logger - INFO - Response status: 200
+2025-12-29 17:28:20,167 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initExpensePage
+2025-12-29 17:28:20,770 - core.logger - INFO - Response status: 200
+2025-12-29 17:28:20,771 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initPredictPage
+2025-12-29 17:28:21,424 - core.logger - INFO - Response status: 200
+2025-12-29 17:28:54,683 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 17:28:55,924 - core.logger - INFO - Response status: 200
+2025-12-29 17:28:56,752 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 17:28:57,526 - core.logger - INFO - Response status: 401
+2025-12-29 17:28:57,561 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-29 17:28:57,912 - core.logger - INFO - Response status: 200
+2025-12-29 17:28:57,942 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initExpensePage
+2025-12-29 17:28:58,290 - core.logger - INFO - Response status: 200
+2025-12-29 17:28:58,324 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initPredictPage
+2025-12-29 17:28:58,664 - core.logger - INFO - Response status: 200
+2025-12-29 17:28:58,691 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initExpensePage
+2025-12-29 17:28:59,021 - core.logger - INFO - Response status: 401
+2025-12-29 17:28:59,046 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initPredictPage
+2025-12-29 17:28:59,381 - core.logger - INFO - Response status: 401
+2025-12-29 17:28:59,416 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 17:28:59,749 - core.logger - INFO - Response status: 401
+2025-12-29 17:28:59,794 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 17:29:00,124 - core.logger - INFO - Response status: 401
+2025-12-29 17:29:00,152 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-29 17:29:00,485 - core.logger - INFO - Response status: 401
+2025-12-29 17:29:00,512 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 17:29:00,872 - core.logger - INFO - Response status: 200
+2025-12-29 17:29:00,912 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 17:29:01,238 - core.logger - INFO - Response status: 401
+2025-12-29 17:29:01,261 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-29 17:29:01,623 - core.logger - INFO - Response status: 200
+2025-12-29 17:29:01,644 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initExpensePage
+2025-12-29 17:29:02,190 - core.logger - INFO - Response status: 200
+2025-12-29 17:29:02,222 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initPredictPage
+2025-12-29 17:29:02,757 - core.logger - INFO - Response status: 200
+2025-12-29 17:30:47,357 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 17:30:48,764 - core.logger - INFO - Response status: 200
+2025-12-29 17:30:49,706 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 17:30:50,079 - core.logger - INFO - Response status: 401
+2025-12-29 17:30:50,130 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-29 17:30:50,527 - core.logger - INFO - Response status: 200
+2025-12-29 17:30:50,587 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initExpensePage
+2025-12-29 17:30:50,993 - core.logger - INFO - Response status: 200
+2025-12-29 17:30:51,025 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initPredictPage
+2025-12-29 17:30:51,637 - core.logger - INFO - Response status: 200
+2025-12-29 17:30:51,661 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initExpensePage
+2025-12-29 17:30:52,031 - core.logger - INFO - Response status: 401
+2025-12-29 17:30:52,050 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initPredictPage
+2025-12-29 17:30:52,416 - core.logger - INFO - Response status: 401
+2025-12-29 17:30:52,448 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 17:30:52,826 - core.logger - INFO - Response status: 401
+2025-12-29 17:30:52,847 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 17:30:53,217 - core.logger - INFO - Response status: 401
+2025-12-29 17:30:53,250 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-29 17:30:53,628 - core.logger - INFO - Response status: 401
+2025-12-29 17:30:53,689 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 17:30:54,090 - core.logger - INFO - Response status: 200
+2025-12-29 17:30:54,121 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 17:30:54,494 - core.logger - INFO - Response status: 401
+2025-12-29 17:30:54,518 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-29 17:30:54,919 - core.logger - INFO - Response status: 200
+2025-12-29 17:30:54,937 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initExpensePage
+2025-12-29 17:30:55,322 - core.logger - INFO - Response status: 200
+2025-12-29 17:30:55,351 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initPredictPage
+2025-12-29 17:30:55,733 - core.logger - INFO - Response status: 200
+2025-12-29 20:16:24,294 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 20:16:25,869 - core.logger - INFO - Response status: 401
+2025-12-29 20:16:28,796 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 20:16:29,773 - core.logger - INFO - Response status: 401
+2025-12-29 20:16:29,845 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-29 20:16:30,206 - core.logger - INFO - Response status: 401
+2025-12-29 20:18:06,657 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 20:18:08,403 - core.logger - INFO - Response status: 200
+2025-12-29 20:18:10,008 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 20:18:10,370 - core.logger - INFO - Response status: 401
+2025-12-29 20:18:10,434 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-29 20:18:11,234 - core.logger - INFO - Response status: 200
+2025-12-29 20:18:11,276 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initExpensePage
+2025-12-29 20:18:11,665 - core.logger - INFO - Response status: 200
+2025-12-29 20:18:11,702 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initPredictPage
+2025-12-29 20:18:12,303 - core.logger - INFO - Response status: 200
+2025-12-29 20:18:46,788 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 20:18:48,570 - core.logger - INFO - Response status: 200
+2025-12-29 20:18:49,634 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 20:18:49,995 - core.logger - INFO - Response status: 401
+2025-12-29 20:18:50,022 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-29 20:18:50,780 - core.logger - INFO - Response status: 200
+2025-12-29 20:18:50,804 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initExpensePage
+2025-12-29 20:18:51,386 - core.logger - INFO - Response status: 200
+2025-12-29 20:18:51,411 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initPredictPage
+2025-12-29 20:18:51,991 - core.logger - INFO - Response status: 200
+2025-12-29 20:47:59,550 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 20:48:01,461 - core.logger - INFO - Response status: 200
+2025-12-29 20:48:02,604 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 20:48:03,640 - core.logger - INFO - Response status: 401
+2025-12-29 20:48:03,682 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-29 20:48:04,055 - core.logger - INFO - Response status: 200
+2025-12-29 20:48:04,080 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initExpensePage
+2025-12-29 20:48:04,674 - core.logger - INFO - Response status: 200
+2025-12-29 20:48:04,730 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initPredictPage
+2025-12-29 20:48:05,326 - core.logger - INFO - Response status: 200
+2025-12-29 20:48:05,368 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initExpensePage
+2025-12-29 20:48:05,734 - core.logger - INFO - Response status: 401
+2025-12-29 20:48:05,780 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initPredictPage
+2025-12-29 20:48:06,138 - core.logger - INFO - Response status: 401
+2025-12-29 20:48:06,163 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 20:48:06,552 - core.logger - INFO - Response status: 401
+2025-12-29 20:48:06,577 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 20:48:06,978 - core.logger - INFO - Response status: 401
+2025-12-29 20:48:07,022 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-29 20:48:08,105 - core.logger - INFO - Response status: 401
+2025-12-29 20:48:08,122 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 20:48:08,774 - core.logger - INFO - Response status: 200
+2025-12-29 20:48:08,792 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 20:48:09,153 - core.logger - INFO - Response status: 401
+2025-12-29 20:48:09,171 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-29 20:48:09,934 - core.logger - INFO - Response status: 200
+2025-12-29 20:48:09,953 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initExpensePage
+2025-12-29 20:48:10,339 - core.logger - INFO - Response status: 200
+2025-12-29 20:48:10,359 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initPredictPage
+2025-12-29 20:48:10,725 - core.logger - INFO - Response status: 200
+2025-12-29 20:55:20,340 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initExpensePage
+2025-12-29 20:55:21,715 - core.logger - INFO - Response status: 200
+2025-12-29 20:55:44,393 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initExpensePage
+2025-12-29 20:55:46,628 - core.logger - INFO - Response status: 200
+2025-12-29 20:56:23,212 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initExpensePage
+2025-12-29 20:56:24,627 - core.logger - INFO - Response status: 200
+2025-12-29 20:56:24,629 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initExpensePage
+2025-12-29 20:56:25,618 - core.logger - INFO - Response status: 200
+2025-12-29 20:56:48,093 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 20:56:49,920 - core.logger - INFO - Response status: 200
+2025-12-29 21:04:29,252 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 21:04:31,380 - core.logger - INFO - Response status: 200
+2025-12-29 21:04:32,320 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 21:04:32,879 - core.logger - INFO - Response status: 200
+2025-12-29 21:04:32,915 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-29 21:04:33,489 - core.logger - INFO - Response status: 200
+2025-12-29 21:05:58,736 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 21:06:00,153 - core.logger - INFO - Response status: 200
+2025-12-29 21:06:01,173 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 21:06:01,747 - core.logger - INFO - Response status: 200
+2025-12-29 21:06:01,794 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-29 21:06:02,145 - core.logger - INFO - Response status: 200
+2025-12-29 21:08:43,700 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 21:08:45,771 - core.logger - INFO - Response status: 200
+2025-12-29 21:08:46,845 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 21:08:47,485 - core.logger - INFO - Response status: 200
+2025-12-29 21:08:47,523 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-29 21:08:48,145 - core.logger - INFO - Response status: 200
+2025-12-29 21:09:50,416 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 21:09:51,923 - core.logger - INFO - Response status: 200
+2025-12-29 21:09:51,954 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 21:09:52,597 - core.logger - INFO - Response status: 200
+2025-12-29 21:09:52,624 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-29 21:09:53,033 - core.logger - INFO - Response status: 200
+2025-12-29 21:12:17,544 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 21:12:19,120 - core.logger - INFO - Response status: 200
+2025-12-29 21:12:19,145 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-29 21:12:19,714 - core.logger - INFO - Response status: 200
+2025-12-29 21:12:19,741 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-29 21:12:20,320 - core.logger - INFO - Response status: 200
+2025-12-30 17:00:52,149 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:00:53,743 - core.logger - INFO - Response status: 401
+2025-12-30 17:00:54,597 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:00:54,945 - core.logger - INFO - Response status: 401
+2025-12-30 17:00:54,980 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-30 17:00:55,340 - core.logger - INFO - Response status: 401
+2025-12-30 17:02:58,843 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initExpensePage
+2025-12-30 17:03:00,313 - core.logger - INFO - Response status: 200
+2025-12-30 17:03:00,347 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initPredictPage
+2025-12-30 17:03:00,701 - core.logger - INFO - Response status: 200
+2025-12-30 17:03:00,722 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:03:01,290 - core.logger - INFO - Response status: 200
+2025-12-30 17:03:02,030 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:03:02,594 - core.logger - INFO - Response status: 200
+2025-12-30 17:03:02,624 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-30 17:03:03,181 - core.logger - INFO - Response status: 200
+2025-12-30 17:11:15,370 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:11:17,119 - core.logger - INFO - Response status: 200
+2025-12-30 17:11:19,294 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:11:19,651 - core.logger - INFO - Response status: 401
+2025-12-30 17:11:19,711 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-30 17:11:20,087 - core.logger - INFO - Response status: 200
+2025-12-30 17:11:34,367 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:11:35,771 - core.logger - INFO - Response status: 401
+2025-12-30 17:12:23,378 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:12:24,914 - core.logger - INFO - Response status: 401
+2025-12-30 17:12:52,515 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:12:53,958 - core.logger - INFO - Response status: 401
+2025-12-30 17:13:40,028 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:13:41,588 - core.logger - INFO - Response status: 401
+2025-12-30 17:14:19,610 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:14:21,021 - core.logger - INFO - Response status: 401
+2025-12-30 17:14:42,633 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:14:44,106 - core.logger - INFO - Response status: 200
+2025-12-30 17:14:45,042 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:14:45,430 - core.logger - INFO - Response status: 401
+2025-12-30 17:14:45,461 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-30 17:14:45,857 - core.logger - INFO - Response status: 200
+2025-12-30 17:16:01,441 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initExpensePage
+2025-12-30 17:16:02,778 - core.logger - INFO - Response status: 200
+2025-12-30 17:16:02,797 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initPredictPage
+2025-12-30 17:16:03,174 - core.logger - INFO - Response status: 200
+2025-12-30 17:16:03,224 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:16:03,848 - core.logger - INFO - Response status: 200
+2025-12-30 17:16:04,425 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:16:04,800 - core.logger - INFO - Response status: 401
+2025-12-30 17:16:04,811 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-30 17:16:05,185 - core.logger - INFO - Response status: 200
+2025-12-30 17:16:59,641 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:17:01,252 - core.logger - INFO - Response status: 200
+2025-12-30 17:17:35,580 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:17:36,928 - core.logger - INFO - Response status: 200
+2025-12-30 17:18:42,270 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:18:43,626 - core.logger - INFO - Response status: 200
+2025-12-30 17:19:12,480 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:19:14,143 - core.logger - INFO - Response status: 200
+2025-12-30 17:19:30,005 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:19:31,341 - core.logger - INFO - Response status: 200
+2025-12-30 17:19:31,363 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:19:31,717 - core.logger - INFO - Response status: 401
+2025-12-30 17:19:31,734 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-30 17:19:32,104 - core.logger - INFO - Response status: 200
+2025-12-30 17:19:48,098 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initExpensePage
+2025-12-30 17:19:49,410 - core.logger - INFO - Response status: 200
+2025-12-30 17:19:49,439 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initPredictPage
+2025-12-30 17:19:49,997 - core.logger - INFO - Response status: 200
+2025-12-30 17:19:50,023 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:19:50,455 - core.logger - INFO - Response status: 200
+2025-12-30 17:19:50,471 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:19:50,819 - core.logger - INFO - Response status: 401
+2025-12-30 17:19:50,851 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-30 17:19:51,214 - core.logger - INFO - Response status: 200
+2025-12-30 17:21:46,217 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initExpensePage
+2025-12-30 17:21:47,664 - core.logger - INFO - Response status: 200
+2025-12-30 17:21:47,679 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initPredictPage
+2025-12-30 17:21:48,241 - core.logger - INFO - Response status: 200
+2025-12-30 17:21:48,265 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:21:48,886 - core.logger - INFO - Response status: 200
+2025-12-30 17:21:48,909 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:21:49,266 - core.logger - INFO - Response status: 401
+2025-12-30 17:21:49,293 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-30 17:21:49,856 - core.logger - INFO - Response status: 200
+2025-12-30 17:25:48,800 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initExpensePage
+2025-12-30 17:25:50,100 - core.logger - INFO - Response status: 200
+2025-12-30 17:25:50,127 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initPredictPage
+2025-12-30 17:25:50,675 - core.logger - INFO - Response status: 200
+2025-12-30 17:25:50,702 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:25:51,301 - core.logger - INFO - Response status: 200
+2025-12-30 17:25:51,329 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:25:51,661 - core.logger - INFO - Response status: 401
+2025-12-30 17:25:51,684 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-30 17:25:52,043 - core.logger - INFO - Response status: 200
+2025-12-30 17:26:10,153 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initExpensePage
+2025-12-30 17:26:11,635 - core.logger - INFO - Response status: 200
+2025-12-30 17:26:11,668 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initPredictPage
+2025-12-30 17:26:12,283 - core.logger - INFO - Response status: 200
+2025-12-30 17:26:12,320 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:26:13,146 - core.logger - INFO - Response status: 200
+2025-12-30 17:26:13,176 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:26:13,539 - core.logger - INFO - Response status: 401
+2025-12-30 17:26:13,550 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-30 17:26:13,980 - core.logger - INFO - Response status: 200
+2025-12-30 17:33:07,086 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initExpensePage
+2025-12-30 17:33:08,708 - core.logger - INFO - Response status: 200
+2025-12-30 17:33:08,750 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initPredictPage
+2025-12-30 17:33:09,149 - core.logger - INFO - Response status: 200
+2025-12-30 17:33:09,162 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:33:09,809 - core.logger - INFO - Response status: 200
+2025-12-30 17:33:09,837 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initCorpPage
+2025-12-30 17:33:10,237 - core.logger - INFO - Response status: 401
+2025-12-30 17:33:10,249 - core.logger - INFO - Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/insertCorpConf
+2025-12-30 17:33:10,673 - core.logger - INFO - Response status: 200

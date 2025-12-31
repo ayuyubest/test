@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"验证未认证用户访问基础数据初始化接口","402","店铺主体关系设置_基础数据初始化_未认证","testcases","Tue Dec 30 17:33:09 CST 2025","passed","Tue Dec 30 17:33:10 CST 2025","TestTaxDeclare","test_tax_declare","",""
+"验证报送场景费用项基础数据初始化","1653","报送场景费用项设置_基础数据初始化_正常流程","testcases","Tue Dec 30 17:33:07 CST 2025","passed","Tue Dec 30 17:33:08 CST 2025","TestExpenseConfig","test_expense_config","",""
+"验证基础数据初始化接口正常返回平台、店铺、主体信息","654","店铺主体关系设置_基础数据初始化_正常流程","testcases","Tue Dec 30 17:33:09 CST 2025","passed","Tue Dec 30 17:33:09 CST 2025","TestTaxDeclare","test_tax_declare","",""
+"验证预测申报金额基础数据初始化","403","预测申报金额设置_基础数据初始化_正常流程","testcases","Tue Dec 30 17:33:08 CST 2025","passed","Tue Dec 30 17:33:09 CST 2025","TestPredictConfig","test_predict_config","",""
+"验证正常新增主体功能","430","新增主体_正常流程","testcases","Tue Dec 30 17:33:10 CST 2025","passed","Tue Dec 30 17:33:10 CST 2025","TestTaxDeclare","test_tax_declare","",""

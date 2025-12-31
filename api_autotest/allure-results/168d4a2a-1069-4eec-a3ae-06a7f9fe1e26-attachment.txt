@@ -1,0 +1,2 @@
+[32mINFO    [0m core.logger:api_client.py:25 Sending POST request to https://hjytest.ali2.huice.cc/huice/api/recon/taxDeclareConfig/initPredictPage
+[32mINFO    [0m core.logger:api_client.py:41 Response status: 200
